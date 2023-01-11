@@ -1,5 +1,5 @@
 {
-  "name": "hc-bluetooth-printer",
+  "name": "@hc/bluetooth-printer",
   "version": "0.0.3",
   "description": "bluetooth printer plugin",
   "main": "dist/plugin.cjs.js",
