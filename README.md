@@ -2,6 +2,11 @@
 
 bluetooth printer plugin
 
+## Publish plugin
+```bash
+npm publish --registry https://npm.pkg.jetbrains.space/happytech/p/hc/hc-npm/
+```
+
 ## Install
 
 ```bash
