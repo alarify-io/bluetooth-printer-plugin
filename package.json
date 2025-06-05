@@ -1,5 +1,5 @@
 {
-  "name": "@hc/bluetooth-printer",
+  "name": "@alarify-io/bluetooth-printer",
   "version": "1.0.3",
   "description": "bluetooth printer plugin",
   "main": "dist/plugin.cjs.js",
@@ -17,10 +17,10 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/karimych/BluetoothPrinterPlugin.git"
+    "url": "git+https://github.com/alarify-io/bluetooth-printer-plugin.git"
   },
   "bugs": {
-    "url": "https://github.com/karimych/BluetoothPrinterPlugin/issues"
+    "url": "https://github.com/alarify-io/bluetooth-printer-plugin/issues"
   },
   "keywords": [
     "capacitor",
